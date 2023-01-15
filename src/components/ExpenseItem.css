@@ -1,0 +1,26 @@
+.expense-item {
+  display: flex;
+  background-color: black;
+  align-items: center;
+  justify-content: center;
+  border-radius: 9px;
+}
+.date{
+ color: white;
+ width: 50%;
+ text-align: center;
+}
+.expense-item_description{
+ display: flex;
+ width: 50%;
+ align-items: center;
+ justify-content: center;
+}
+.expense-item_description h2{
+ color: white;
+ width: 50%;
+}
+.expense-item__price{
+ color: white;
+ width: 50%;
+}
